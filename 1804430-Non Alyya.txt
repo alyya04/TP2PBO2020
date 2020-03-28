@@ -1,0 +1,8 @@
+Saya Non Alyya Yan Hari (1804430) mengerjakan TP2PBO2020
+dalam mata kuliah  Desain & PBO untuk keberkahanNya 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Di Project ini saya membuat aplikasi Perpustakan seperti yang telah dispesifikasikan dalam soal dengan menggunakan bantuan
+library : 
+	 JDBC DRIVER digunakan untuk koneksi ke database
+	 JCALENDER digunakan untuk membuat tanggal (tidak menggunakan text field), jadi user bisa memilih dari kalender.
